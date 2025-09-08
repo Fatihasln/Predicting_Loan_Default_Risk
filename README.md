@@ -87,10 +87,11 @@ XGBoost (High-performance gradient boosting)
 5. Model Evaluation
 Models were evaluated based on Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 
-Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
-Logistic Regression	0.861	0.882	0.950	0.915	0.871
-Random Forest	0.931	0.924	0.994	0.958	0.935
-XGBoost	0.936	0.929	0.995	0.961	0.948
+Model	Accuracy	       Precision	Recall	F1-Score	ROC-AUC
+Logistic Regression	    0.861	    0.882	  0.950	    0.915	0.871
+Random Forest	          0.931	    0.924	  0.994	    0.958	0.935
+XGBoost                	0.936	    0.929	  0.995	    0.961	0.948
+
 🏆 Results & Conclusion
 Best Model: XGBoost achieved the highest test ROC-AUC score of 0.948, demonstrating superior performance in distinguishing between defaulting and non-defaulting applicants.
 
