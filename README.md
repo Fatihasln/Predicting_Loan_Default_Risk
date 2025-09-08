@@ -1,5 +1,7 @@
 Credit Risk Analysis & Predictive Modeling
+
 📖 Project Overview
+
 This project focuses on building a machine learning model to predict the likelihood of a loan applicant defaulting. The goal is to assist financial institutions in making data-driven lending decisions to mitigate risk.
 
 The workflow encompasses a full data science pipeline:
